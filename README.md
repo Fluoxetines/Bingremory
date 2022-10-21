@@ -7,5 +7,5 @@ My Name is Nguyen Duc Long and I'm a Front-End Developer . I'm from VietNam and 
 
 ## 📈 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bingremory&theme=tokyonight&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bingremory&theme=tokyonight&layout=compact&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api?username=Fluoxetines&theme=tokyonight&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluoxetines&theme=tokyonight&layout=compact&langs_count=6">
